@@ -1,0 +1,60 @@
+{
+  "users": [
+    {
+      "id": "d305",
+      "name": "Ceco",
+      "email": "ceco@email.com",
+      "password": "ceco"
+    },
+    {
+      "id": "902b",
+      "name": "Димитър",
+      "email": "dim@email.com",
+      "password": "Mitko123456"
+    },
+    {
+      "id": "5075",
+      "name": "Iva254",
+      "email": "iva@email.com",
+      "password": "iva"
+    }
+  ],
+  "quotes": [
+    {
+      "id": "dbf3",
+      "text": "“Аз съм пътешественик и мореплавател – всеки ден откривам нови земи в душата си.” - Халил Джубран",
+      "userEmail": "ceco@email.com",
+      "userName": "Ceco"
+    },
+    {
+      "id": "6eed",
+      "text": "“Ако можеш да бъдеш орел, не се напъвай да си пръв сред гаргите.” - Питагор",
+      "userEmail": "ceco@email.com",
+      "userName": "Ceco"
+    },
+    {
+      "id": "6dd1",
+      "text": "“Най-добрата подправка към храната е гладът.” - Сократ",
+      "userEmail": "ceco@email.com",
+      "userName": "Ceco"
+    },
+    {
+      "id": "7191",
+      "text": "„Ако нямам това, от което се нуждае душата ми, ставам опасен.“ - Карл Густав Юнг",
+      "userEmail": "dim@email.com",
+      "userName": "Димитър"
+    },
+    {
+      "id": "272e",
+      "text": "„Не обяснявай своята философия. Въплъти я.“ - Епиктет",
+      "userEmail": "dim@email.com",
+      "userName": "Димитър"
+    },
+    {
+      "id": "140b",
+      "text": "„Само в спокойния дух се разкрива истината.“ - Елена Петровна Блаватска",
+      "userEmail": "iva@email.com",
+      "userName": "Iva254"
+    }
+  ]
+}
