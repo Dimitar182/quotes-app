@@ -61,12 +61,6 @@
       "text": "„Само в спокойния дух се разкрива истината.“ - Елена Петровна Блаватска",
       "userEmail": "iva@email.com",
       "userName": "Iva254"
-    },
-    {
-      "text": "“Истинското огледало на начина ни на мислене е нашият живот.” - Мишел дьо Монтен",
-      "userEmail": "dimitrv095@gmail.com",
-      "userName": "Dimitar Velichkov",
-      "id": "SyPU7TsqrhQ"
     }
   ],
   "$schema": "./node_modules/json-server/schema.json"
